@@ -1,2 +1,2 @@
-# PRODIGY ML 01
-This was a ML Project
+# PRODIGY_ML_01to05
+Machine Learning Intern
